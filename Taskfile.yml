@@ -1,0 +1,16 @@
+version: '2'
+
+tasks:
+
+  setup:
+    cmds:
+      - bundle install
+
+  update:
+    cmds:
+      - bundle update --all
+
+  serve:
+    cmds:
+      - bundle exec jekyll serve
+ 
