@@ -1,7 +1,20 @@
 title: Hardin Valley Ward
-description: of The Church of Jesus Christ of Latter-Day Saints
-logo: images/hardin-valley-ward-image0.jpeg
-show_downloads: false
+description: News & Information
+logo: images/hardin-valley-ward-image1.jpeg
+disclaimer: This is not an official website of The Church of Jesus Christ of Latter-day Saints.
+contact:
+  name: Chris Lunsford
+  email: admin@hardinvalleyward.org
+
 google_analytics: UA-169258073-1
 
+
 theme: jekyll-theme-minimal
+show_downloads: false
+
+plugins:
+  - jekyll-image-size
+
+
+permalink: /:categories/:year/:month/:day/:title:output_ext
+excerpt_separator: <!--more-->
