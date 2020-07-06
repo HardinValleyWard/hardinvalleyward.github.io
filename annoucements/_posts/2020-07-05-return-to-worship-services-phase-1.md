@@ -19,7 +19,7 @@ The Hardin Valley Ward Bishopric
 
 <div>
 <a href="/files/2020-06-28-Hardin-Valley-Ward-Phase-1-Return-to-Worship-Services.pdf" target="_blank">
-{% imagesize /images/pdf-icon.png:img?width=96 %}
+<img src="/images/pdf-icon.png" alt="PDF Icon">
 <p>Guidelines for Resumed Sunday Gatherings - Phase 1</p>
 </a>
 </div>

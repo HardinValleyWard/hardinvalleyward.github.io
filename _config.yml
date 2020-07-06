@@ -12,9 +12,6 @@ google_analytics: UA-169258073-1
 theme: jekyll-theme-minimal
 show_downloads: false
 
-plugins:
-  - jekyll-image-size
-
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 excerpt_separator: <!--more-->
