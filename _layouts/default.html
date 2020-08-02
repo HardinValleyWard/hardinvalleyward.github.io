@@ -27,6 +27,8 @@
         {% for category in site.categories %}
         <p><a href="{{ "/" | append: category[0] | absolute_url }}">{{ category[0] | capitalize }}</a></p>
         {% endfor %}
+
+        <p><a href="/about">About</a></p>
       </header>
 
       <section>
